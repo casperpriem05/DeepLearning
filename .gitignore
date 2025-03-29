@@ -1,3 +1,4 @@
 *.csv
 *.jpg
 /my_tuner_dir
+/my_tuner_dir_test
