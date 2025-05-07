@@ -1,0 +1,15 @@
+artifact_uri: file:///home/matt/Documents/DeepLearning/Opdracht%202/mlruns/167916437549265356/6938a0bb857b410da66d99ef6feb3ddf/artifacts
+end_time: 1746637210114
+entry_point_name: ''
+experiment_id: '167916437549265356'
+lifecycle_stage: active
+run_id: 6938a0bb857b410da66d99ef6feb3ddf
+run_name: persistent-wolf-766
+run_uuid: 6938a0bb857b410da66d99ef6feb3ddf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746637136366
+status: 3
+tags: []
+user_id: matt

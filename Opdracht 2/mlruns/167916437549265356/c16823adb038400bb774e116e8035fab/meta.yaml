@@ -1,0 +1,15 @@
+artifact_uri: file:///home/matt/Documents/DeepLearning/Opdracht%202/mlruns/167916437549265356/c16823adb038400bb774e116e8035fab/artifacts
+end_time: 1746637524308
+entry_point_name: ''
+experiment_id: '167916437549265356'
+lifecycle_stage: active
+run_id: c16823adb038400bb774e116e8035fab
+run_name: bright-cow-891
+run_uuid: c16823adb038400bb774e116e8035fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746637440504
+status: 3
+tags: []
+user_id: matt

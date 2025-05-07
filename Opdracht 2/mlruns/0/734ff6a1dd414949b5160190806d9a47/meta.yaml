@@ -1,0 +1,15 @@
+artifact_uri: file:///home/matt/Documents/DeepLearning/Opdracht%202/mlruns/0/734ff6a1dd414949b5160190806d9a47/artifacts
+end_time: 1746636853626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 734ff6a1dd414949b5160190806d9a47
+run_name: rambunctious-rat-671
+run_uuid: 734ff6a1dd414949b5160190806d9a47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746636818299
+status: 3
+tags: []
+user_id: matt

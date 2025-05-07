@@ -1,0 +1,6 @@
+artifact_location: file:///home/matt/Documents/DeepLearning/Opdracht%202/mlruns/167916437549265356
+creation_time: 1746637088470
+experiment_id: '167916437549265356'
+last_update_time: 1746637088470
+lifecycle_stage: active
+name: Genre_LSTM_Tuning

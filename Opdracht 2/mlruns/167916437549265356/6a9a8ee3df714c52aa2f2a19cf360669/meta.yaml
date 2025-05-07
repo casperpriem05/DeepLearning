@@ -1,0 +1,15 @@
+artifact_uri: file:///home/matt/Documents/DeepLearning/Opdracht%202/mlruns/167916437549265356/6a9a8ee3df714c52aa2f2a19cf360669/artifacts
+end_time: 1746637136364
+entry_point_name: ''
+experiment_id: '167916437549265356'
+lifecycle_stage: active
+run_id: 6a9a8ee3df714c52aa2f2a19cf360669
+run_name: smiling-hog-510
+run_uuid: 6a9a8ee3df714c52aa2f2a19cf360669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746637105540
+status: 3
+tags: []
+user_id: matt

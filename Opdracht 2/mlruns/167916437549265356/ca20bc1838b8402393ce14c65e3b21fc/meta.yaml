@@ -1,0 +1,15 @@
+artifact_uri: file:///home/matt/Documents/DeepLearning/Opdracht%202/mlruns/167916437549265356/ca20bc1838b8402393ce14c65e3b21fc/artifacts
+end_time: 1746637617695
+entry_point_name: ''
+experiment_id: '167916437549265356'
+lifecycle_stage: active
+run_id: ca20bc1838b8402393ce14c65e3b21fc
+run_name: debonair-mink-410
+run_uuid: ca20bc1838b8402393ce14c65e3b21fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746637594274
+status: 3
+tags: []
+user_id: matt

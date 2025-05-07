@@ -1,0 +1,15 @@
+artifact_uri: file:///home/matt/Documents/DeepLearning/Opdracht%202/mlruns/167916437549265356/01bf30436b904ae2832209d94fb8f176/artifacts
+end_time: 1746637554116
+entry_point_name: ''
+experiment_id: '167916437549265356'
+lifecycle_stage: active
+run_id: 01bf30436b904ae2832209d94fb8f176
+run_name: gaudy-ram-868
+run_uuid: 01bf30436b904ae2832209d94fb8f176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746637524310
+status: 3
+tags: []
+user_id: matt

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/matt/Documents/DeepLearning/Opdracht%202/mlruns/167916437549265356/234684502e5746c3b8494d3b9362cd3d/artifacts
+end_time: 1746637594273
+entry_point_name: ''
+experiment_id: '167916437549265356'
+lifecycle_stage: active
+run_id: 234684502e5746c3b8494d3b9362cd3d
+run_name: big-bug-915
+run_uuid: 234684502e5746c3b8494d3b9362cd3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746637554117
+status: 3
+tags: []
+user_id: matt
