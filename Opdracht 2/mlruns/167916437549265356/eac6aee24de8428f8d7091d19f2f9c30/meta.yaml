@@ -1,0 +1,15 @@
+artifact_uri: file:///home/matt/Documents/DeepLearning/Opdracht%202/mlruns/167916437549265356/eac6aee24de8428f8d7091d19f2f9c30/artifacts
+end_time: 1746988224730
+entry_point_name: ''
+experiment_id: '167916437549265356'
+lifecycle_stage: active
+run_id: eac6aee24de8428f8d7091d19f2f9c30
+run_name: aged-swan-110
+run_uuid: eac6aee24de8428f8d7091d19f2f9c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746988181334
+status: 3
+tags: []
+user_id: matt

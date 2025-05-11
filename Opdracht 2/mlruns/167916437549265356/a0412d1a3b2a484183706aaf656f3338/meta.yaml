@@ -1,0 +1,15 @@
+artifact_uri: file:///home/matt/Documents/DeepLearning/Opdracht%202/mlruns/167916437549265356/a0412d1a3b2a484183706aaf656f3338/artifacts
+end_time: 1746988861188
+entry_point_name: ''
+experiment_id: '167916437549265356'
+lifecycle_stage: active
+run_id: a0412d1a3b2a484183706aaf656f3338
+run_name: efficient-fowl-657
+run_uuid: a0412d1a3b2a484183706aaf656f3338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746988845929
+status: 3
+tags: []
+user_id: matt
