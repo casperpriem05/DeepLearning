@@ -1,0 +1,15 @@
+artifact_uri: file:///home/matt/Documents/DeepLearning/Opdracht%202/mlruns/167916437549265356/329317438e0c4b5ab5ec56c5e9f2cfeb/artifacts
+end_time: 1746988541080
+entry_point_name: ''
+experiment_id: '167916437549265356'
+lifecycle_stage: active
+run_id: 329317438e0c4b5ab5ec56c5e9f2cfeb
+run_name: clumsy-sow-503
+run_uuid: 329317438e0c4b5ab5ec56c5e9f2cfeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746988381051
+status: 3
+tags: []
+user_id: matt
