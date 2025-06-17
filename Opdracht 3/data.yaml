@@ -1,7 +1,7 @@
 # Paden naar de data. De paden zijn relatief aan de locatie van dit yaml-bestand.
 # Zorg ervoor dat de 'path' variabele correct verwijst naar de hoofdmap van de dataset als je dit bestand ergens anders plaatst.
 train: transforming-fashion-2025/Dataset/Train/images
-val: transforming-fashion-2025/Dataset/Train/images   
+val: transforming-fashion-2025/Dataset/Val/images   
 test: transforming-fashion-2025/Dataset/Test/images
 
 # Klasse-informatie
